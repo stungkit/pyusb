@@ -104,6 +104,7 @@ Python >= 3.9, ctypes and a pre-built USB backend library
         'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
         'Programming Language :: Python :: 3.13',
+        'Programming Language :: Python :: 3.14',
         # source(CPython,Jython,IronPython,PyPy): "The Long Term" section of
         # http://ojs.pythonpapers.org/index.php/tpp/article/viewFile/23/23
         'Programming Language :: Python :: Implementation :: CPython',
